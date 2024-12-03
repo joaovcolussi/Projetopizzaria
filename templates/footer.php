@@ -1,5 +1,5 @@
 <footer>
-  <p>Rodapé</p>
+  <p>Pizzaria do João &copy; 2024</p>
 </footer>
 
 

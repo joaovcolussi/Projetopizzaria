@@ -3,6 +3,10 @@ html, body{
 }
 
 
+h1{
+  color: red;
+}
+
 /* NAVBAR */
 
 #brand-logo{
@@ -17,4 +21,15 @@ html, body{
 
 .navbar.navbar-expand-lg a{
   color: #fff;
+}
+
+footer{
+  position: relative;
+  width: 100%;
+  height: 175px;
+  color: #fff;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
 }
